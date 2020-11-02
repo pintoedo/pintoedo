@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Full Stack developer with a creative drive working with technologies of the JavaScript ecosystem. Some technlogies that I'm comfortable with are React, React Native, Node, Express, Koa, MongoDB, Mongoose, GraphQL and many more. 🔸
+
+When I'm not coding I enjoy electronic music, dancing, colors, cats and Sunday naps. 🐈
+
+Welcome to my github :)
 <!--
 **pintoedo/pintoedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
